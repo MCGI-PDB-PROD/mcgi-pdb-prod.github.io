@@ -2,7 +2,7 @@
 layout: By Laws
 title: By Laws
 permalink: /
-subtitle: ## Locale of Paso de Blas
+subtitle: Locale of Paso de Blas
 
 profile:
   align: right
@@ -29,7 +29,7 @@ latest_posts:
 
 
 
-# MCGIPRO BY LAWS:
+MCGIPRO BY LAWS
 
 Technical Operations for Church events and gatherings.
 
