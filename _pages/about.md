@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: right
   image: full-size-logo.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>I  CORINTO 14:40 (ADB)</p>
     <p>Datapuwa’t gawin ninyong may karapatan at may kaayusan ang lahat ng mga bagay.</p>
