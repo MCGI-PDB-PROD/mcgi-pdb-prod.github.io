@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>I  CORINTO 14:40 (ADB)</p>
     <p>Datapuwa’t gawin ninyong may karapatan at may kaayusan ang lahat ng mga bagay.</p>
+    
 .slanted-text {
   transform: skewX(20deg);
 }
