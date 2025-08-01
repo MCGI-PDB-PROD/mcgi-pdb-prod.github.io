@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: By Laws
 title: By Laws
 permalink: /
 subtitle: Locale of Paso de Blas
