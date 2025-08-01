@@ -2,7 +2,7 @@
 layout: about
 title: By Laws
 permalink: /
-subtitle: Locale of Paso de Blas
+subtitle: **Locale of Paso de Blas**
 
 profile:
   align: right
@@ -125,11 +125,11 @@ MCGIPRO LOCALE HEAD (technical aspect)
 
 
 VIOLATIONS & SANCTIONS
-1.) Hindi pag-duty ng walang paalam (AWOL)
-2.) Hindi pagdalo ng meetings at trainings ng walang valid nadahilan.
-3.) Paggamit ng mga MCGIPRO equipments sa personal nakapakinabangan.
-4.) Pagkawala, pagkasira ng mga gamit dahil sa kapabayaan.
-5.) Habitual tardiness ng walang valid reason.
+</p>1.) Hindi pag-duty ng walang paalam (AWOL</p>
+</p>2.) Hindi pagdalo ng meetings at trainings ng walang valid nadahilan.</p>
+</p>3.) Paggamit ng mga MCGIPRO equipments sa personal nakapakinabangan.</p>
+</p>4.) Pagkawala, pagkasira ng mga gamit dahil sa kapabayaan.</p>
+</p>5.) Habitual tardiness ng walang valid reason.</p>
 
 First Offense = Written explanation at makikipag-usap sa assigned worker
 Second Offense = Temporary suspension bilang MCGIPRO member at makikipag-usap sa DS
