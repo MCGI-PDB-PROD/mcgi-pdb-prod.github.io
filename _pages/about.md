@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: By Laws
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
