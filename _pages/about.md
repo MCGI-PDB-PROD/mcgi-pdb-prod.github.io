@@ -2,7 +2,7 @@
 layout: about
 title: By Laws
 permalink: /
-subtitle: Locale of Paso de Blas
+subtitle: ## Locale of Paso de Blas
 
 profile:
   align: right
