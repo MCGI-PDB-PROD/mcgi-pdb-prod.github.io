@@ -9,7 +9,7 @@ profile:
   image: full-size-logo.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>I  CORINTO 14:40 (ADB)</p>
+    <p>I  CORINTO 14:40</p>
     <p>Datapuwa’t gawin ninyong may karapatan at may kaayusan ang lahat ng mga bagay.</p>
     </p>"Ang Dating Biblia"</p>
 
@@ -17,18 +17,22 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  enabled: false # includes a list of news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  enabled: false
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-MCGIPRO BY LAWS
+
+
+# MCGIPRO BY LAWS:
+
 Technical Operations for Church events and gatherings.
+
 Technical augmentation for special events; like Wish, UNTV Repaso and the likes.
 
 MEMBERSHIP REQUIREMENTS
@@ -52,19 +56,33 @@ Nararapat din niyang sundin sa lahat ng pagkakataon ang instructions ng kanilang
 
 Pagkatapos ng 3 buwang apprenticeship ay dadaan sila sa evaluation using the standard evaluation form signed by the following:
 
+
+
 WORKER (spiritual aspect)
+
 DEACON/DEACONESS (management aspect)
+
 MCGIPRO LOCALE HEAD (technical aspect)
+
 Kung pasado nasa evaluation ay saka lamang sila maaaring irekomenda na maging kasaping MCGIPRO at ito ay upon approval ng DS at KNP.
+
 Kinakailangan ding magpasa sila ng video ng kanilang statement of faith at maging ang mga matagal ng member ng MCGIPRO.
+
+
 
 JOB DESCRIPTION
 Manpower
 Division Coordinator - nakikipag coordinate sa National MCGIPRO tungkol sa mga dapat maisagawa sa MCGIPRO Section.
+
 Division Staff - Monitoring, consolidation ng mga report mula sa bawat Distrito.
+
 District Coordinator - Monitoring sa bawat lokal at nakikipag coordinate sa Division MCGIPRO tungkol sa mga dapat maisagawa sa MCGIPRO Section.
+
 Zone Coordinator - Monitoring sa bawat local sa zona at nakikipag coordinate sa Dist MCGIPRO tungkol sa mga dapat maisagawa sa MCGIPRO Section.
+
 Lokal Coordinator - Nakikipag coordinate sa Zone MCGIPRO tungkol sa mga dapat maisagawa sa MCGIPRO Section
+
+
 
 DUTIES & RESPONSIBILITIES
 Kinakailangan na ang bawat MCGIPRO staff ay nakasuot ng Proper Uniform sa lahat ng pag kakatipon at Church activities. At marapat suotin itong may kaukulang pag iingat at respeto.
@@ -117,7 +135,9 @@ Kapag may events sa labas ng local, halimbawa ay Barangay Expo ay nararapat na d
 Pagkatapos ng 3 buwang apprenticeship ay dadaan sila sa evaluation using the standard evaluation form signed by the following:
 
 SERVANT (spiritual aspect)
+
 DEACON/DEACONESS (management aspect)
+
 MCGIPRO LOCALE HEAD (technical aspect)
 
 
@@ -125,11 +145,17 @@ MCGIPRO LOCALE HEAD (technical aspect)
 
 
 VIOLATIONS & SANCTIONS
-</p>1.) Hindi pag-duty ng walang paalam (AWOL</p>
-</p>2.) Hindi pagdalo ng meetings at trainings ng walang valid nadahilan.</p>
-</p>3.) Paggamit ng mga MCGIPRO equipments sa personal nakapakinabangan.</p>
-</p>4.) Pagkawala, pagkasira ng mga gamit dahil sa kapabayaan.</p>
-</p>5.) Habitual tardiness ng walang valid reason.</p>
+
+1.) Hindi pag-duty ng walang paalam (AWOL)
+
+2.) Hindi pagdalo ng meetings at trainings ng walang valid nadahilan.
+
+3.) Paggamit ng mga MCGIPRO equipments sa personal nakapakinabangan.
+
+4.) Pagkawala, pagkasira ng mga gamit dahil sa kapabayaan.
+
+5.) Habitual tardiness ng walang valid reason.
 
 First Offense = Written explanation at makikipag-usap sa assigned worker
+
 Second Offense = Temporary suspension bilang MCGIPRO member at makikipag-usap sa DS
