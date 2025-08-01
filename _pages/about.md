@@ -9,8 +9,8 @@ profile:
   image: full-size-logo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
+    <p>I  CORINTO 14:40 (ADB)</p>
+    <p>Datapuwa’t gawin ninyong may karapatan at may kaayusan ang lahat ng mga bagay.</p>
     <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
