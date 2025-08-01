@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>I  CORINTO 14:40 (ADB)</p>
     <p>Datapuwa’t gawin ninyong may karapatan at may kaayusan ang lahat ng mga bagay.</p>
-    <p>Your City, State 12345</p>
+    <p>Ang Dating Biblia</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
